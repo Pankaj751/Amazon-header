@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#myid101{
+
+  height: 60px;
+  background-color: #0f1111;
+  
+}
+#logo{
+    color: orange;
+    font-size: 25px;
+    
+}
+a{
+    color: white;
+    margin-right:200px ;
+}
+button{
+    background-color: orange;
+}
